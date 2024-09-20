@@ -1,0 +1,4 @@
+schedule shipmentX 1200 50
+schedule shipmentY 3000 500
+schedule shipmentZ 1500 200
+run 2000
